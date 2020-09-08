@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Sugar Creek Farms",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Sugar Creek Farms located in Allegan, Michigan raises grass-fed beef using regenerative farming practices. Made with ❤ by Andrew Krcatovich",
+    "siteUrl": "https://www.sugarcreek.co",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-175567607-1"
 }
