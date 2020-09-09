@@ -16,7 +16,7 @@
   align-items: center;
   position: relative;
   background: var(--header-bg);
-  padding: 30px 20px;
+  padding: 10px 15px;
 }
 .site-navigation {
   ul {
@@ -73,7 +73,7 @@
       right: 0;
       top: 100%;
       z-index: 1;
-      background: #421E2F;
+      background: #004e36;
       width: 100%;
 			max-width: 320px;    
 			border-radius: 0 0 0 12px;
@@ -88,7 +88,7 @@
       padding: 20px;
     }
     a:hover {
-      background-color: #29121D;
+      background-color: #2c8746;
     }
   }
 }
@@ -108,7 +108,10 @@
   }
   @media (max-width: $breakpoint-lg) {
     font-size: 20px;
-  }
+	}
+	.svg {
+		width: 200px;
+	}
 }
 .home-banner {
 	padding: 60px 0;
