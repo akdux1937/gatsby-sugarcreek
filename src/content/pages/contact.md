@@ -3,6 +3,8 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+**Place an order**, Got a burning question regarding Sugar Creek Farms, or just want to visit the farm. We are happy to talk.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Just send us a message using the form below or you can reach us by phone at (269) 355-0849 (Call or Text).
+
+[See Frequently Asked Questions](about)
