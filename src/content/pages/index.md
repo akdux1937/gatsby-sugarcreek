@@ -8,4 +8,12 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-At Sugar Creek Farms we take our responsibility as stewards of the earth seriously and use regenerate farming techniques to improve the land. All our beef is 100% grass-fed and finished, pasture raised and rotated daily to fresh pasture. The herd is non-GMO, antibiotic free and always humanely raised and harvested.
+Sugar Creek is a family-owned and operated regenerative grass-fed beef farm located in Allegan, Michigan.
+
+Our herd is...
+
+* 100% Grass-Fed & Finished
+* Pasture Raised
+* Humanely Raised
+* Non GMO
+* Antibiotic Free
