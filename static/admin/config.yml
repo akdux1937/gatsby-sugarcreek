@@ -77,6 +77,30 @@ collections:
         - {label: "Slug", name: "slug", widget: "hidden", default: "/about" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
+      - label: "How"
+        name: "how"
+        file: "src/content/pages/how.md"
+        fields:
+        - {label: "Template", name: "template", widget: "hidden", default: "how-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/how" }
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
+      - label: "FAQ"
+        name: "faq"
+        file: "src/content/pages/faq.md"
+        fields:
+        - {label: "Template", name: "template", widget: "hidden", default: "faq-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/faq" }
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Protocols"
+        name: "protocol"
+        file: "src/content/pages/protocol.md"
+        fields:
+        - {label: "Template", name: "template", widget: "hidden", default: "protocol-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/protocol" }
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"
