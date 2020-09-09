@@ -7,4 +7,4 @@ title: Get in touch
 
 Just send us a message using the form below or you can reach us by phone at (269) 355-0849 (Call or Text).
 
-[See Frequently Asked Questions](about)
+[See Frequently Asked Questions](/faq)
