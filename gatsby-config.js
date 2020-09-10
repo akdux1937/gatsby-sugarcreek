@@ -12,6 +12,10 @@ const netlifyCmsPaths = {
 
 const settings = require("./src/util/site.json")
 
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`
+})
+
 module.exports = {
   siteMetadata: settings.meta,
   plugins: [
@@ -90,5 +94,11 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+          endpoint: process.env.MAILCHIMP_ENDPOINT, 
+      },
+    },
   ],
 }

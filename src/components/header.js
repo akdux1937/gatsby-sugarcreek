@@ -1,9 +1,13 @@
 import React from "react"
+import MailchimpForm from './MailchimpForm'
 
 const Header = ({children}) => (
-  <header className="site-header">
-    {children}
-  </header>
+  <div>
+    <header className="site-header">
+      {children}
+    </header>
+    <MailchimpForm/>
+  </div>
 )
 
 export default Header
