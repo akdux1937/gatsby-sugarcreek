@@ -3,9 +3,7 @@ template: how-page
 slug: /how
 title: How To Buy
 ---
-We currently do not support online order. Please [Contact to Purchase](/contact).
-
-
+We currently do not support online ordering. Please [Contact to Purchase](/contact).
 
 ### Resources
 
