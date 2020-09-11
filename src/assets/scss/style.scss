@@ -16,7 +16,9 @@
   align-items: center;
   position: relative;
   background: var(--header-bg);
-  padding: 10px 15px;
+	padding: 10px 15px;
+	border-bottom: solid 2px var(--button-color);
+	// box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.9);
 }
 .site-navigation {
   ul {
@@ -352,7 +354,7 @@ article img {
 	display: flex;
 	justify-content: center;
 	background: var(--button-color);
-	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.75);
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
 
 	.success-text {
 		margin: 7px;

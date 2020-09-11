@@ -15,11 +15,12 @@ const MailchimpForm = () => {
     setEmail(event.target.value)
   }
   return result === "success" ? (
-    <div className="mailchimp-form">
-      <div className="success-text">
-        Thank you!
-      </div>
-    </div>
+    // <div className="mailchimp-form">
+    //   <div className="success-text">
+    //     Thank you!
+    //   </div>
+    // </div>
+    <></>
   ) : (
     <form
       className="mailchimp-form"
