@@ -3,12 +3,13 @@ template: how-page
 slug: /how
 title: How To Buy
 ---
-How it works will go here.
+We currently do not support online order. Please [Contact to Purchase](/contact).
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+
 
 ### Resources
-- [Our Story](/about)
-- [Frequently Asked Questions](/faq)
-- [Protocols](/protocol)
-- [Contact to Purchase](/contact)
+
+* [Our Story](/about)
+* [Frequently Asked Questions](/faq)
+* [Protocols](/protocol)
+* [Contact to Purchase](/contact)
