@@ -3,6 +3,12 @@ template: faq-page
 slug: /faq
 title: Frequently Asked Questions
 ---
+### Resources
+- [Our Story](/about)
+- [How It Works](/how)
+- [Protocols](/protocol)
+- [Contact to Purchase](/contact)
+
 ### What is a pickup location?
 (NOTE: Pickups are currently closed due to COVID-19) Pickup Locations are simply places where we meet you with your order. Common locations are home driveways or parking lots. Each location is organized by a volunteer Location Leader who helps to facilitate each delivery.
 
@@ -53,8 +59,3 @@ Yes. We do not sell animals raised on other farms.
 
 ### Can I visit your farm?
 Please! [Contact us to schedule a visit](/contact)
-
-### Resources
-- [Protocols](/protocol)
-- [Our Story](/about)
-- [Contact to purchase](/contact)

@@ -10,7 +10,6 @@ const MailchimpForm = () => {
     const resp = await addToMailchimp(email)
     setEmail('')
     setResult(resp.result)
-    console.log(resp)
   }
   const handleChange = event => {
     setEmail(event.target.value)

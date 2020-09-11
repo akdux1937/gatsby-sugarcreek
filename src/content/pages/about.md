@@ -10,7 +10,11 @@ demand from our customers, led us to decide early on that we would not mass prod
 retailers with our product. **We currently don't have the ability to sell online so please get in contact to place an order.** There is sometimes a wait, but we
 always do our best to allocate to new customers when available.
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+### Resources
+- [Frequently Asked Questions](/faq)
+- [How It Works](/how)
+- [Protocols](/protocol)
+- [Contact to Purchase](/contact)
 
 ### Beginnings
 Tom and Michelle Krcatovich own and operated Sugar Creek Farms in Allegan, Michigan. The farm raises 100% grass-fed, pasture raised beef, focusing on regenerative pasture techniques.
@@ -22,7 +26,4 @@ In the beginning everything we did was conventional. We fed our herd corn, grain
 
 In 2015, Sugar Creeks Farms enterprise took shape and we have grown the herd to around 50 stock. We are not planning to be a large operation. The Sugar Creek Farms name will not be in any stores. We will not mass-market another farms' beef or sell what we didn't raise. We WILL continue providing high quality products to people we want to do business with. We WILL continue to become better stewards of the land and our cattle. We WILL continue to be transparent about our practice and share everything we learn.
 
-### Resources
-- [Frequently Asked Questions](/faq)
-- [Protocols](/protocol)
-- [Contact to purchase](/contact)
+![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")

@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import logo from '../../static/assets/scf-logo-green.svg'
+import logo from '../../static/assets/scf-logo-green-no-words.svg'
 
 const Logo = (props) => (
   <div className="site-logo">

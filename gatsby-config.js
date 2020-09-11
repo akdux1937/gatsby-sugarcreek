@@ -90,7 +90,7 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#004e36`,
         display: `standalone`,
-        icon: `static/assets/scf-logo-green.svg`,
+        icon: `static/assets/scf-logo-green-no-words.svg`,
       },
     },
     'gatsby-plugin-offline',
