@@ -185,7 +185,7 @@
 	.meta {
 		margin: 0;
 		font-size: 12px;
-		color: rgba(0,0,0,0.5);
+		color: rgba(0,0,0,0.9);
 	}
 	.post-content {
 		margin-top: 16px;
@@ -215,7 +215,7 @@
   }
   time {
     font-size: 14px;
-    color: rgba(0,0,0,0.6)
+    color: rgba(0,0,0,0.9)
   }
 }
 @media (max-width: $breakpoint-sm) {
@@ -267,7 +267,7 @@ article img {
 	align-items: center;
 	padding: var(--padding) calc(var(--padding) * 2);
 	background-color: var( --button-alternate-color);
-	color: var(--button-color);
+	color: #F3F3F3;
 	border-radius: 12px;
 	text-decoration: none;
 	appearance: none;
@@ -277,7 +277,7 @@ article img {
 	transition: background .3s linear;
 	&:hover {
 		background-color: var(--button-color);
-		color: var( --button-alternate-color);
+		color: #F3F3F3;
 	}
 	&.-outline {
 		color: var(--primary-color);
@@ -410,7 +410,7 @@ article img {
 	padding: 20px 0;
 	p {
 		margin: 0;
-		color: #777
+		color: #171717;
 	}
 	a {
 		font-weight: normal;

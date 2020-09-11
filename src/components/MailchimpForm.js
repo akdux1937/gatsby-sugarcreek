@@ -36,6 +36,7 @@ const MailchimpForm = () => {
           autoComplete="email"
           onChange={handleChange}
           placeholder="Sign up for farm updates..."
+          aria-label="Subscribe"
         />
         <button className="button" type="submit">Subscribe</button>
       </div>
