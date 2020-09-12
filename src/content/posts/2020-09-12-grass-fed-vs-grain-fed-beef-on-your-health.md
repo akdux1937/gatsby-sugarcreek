@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Grass-Fed vs. Grain-Fed Beef On Your Health
+title: "Grass-Fed vs. Grain-Fed Beef: Is One Better For You?"
 slug: /grass-fed-vs-grain-fed-beef
 date: 2020-09-12 12:27
 description: "Grass-Fed vs. Grain-Fed Beef On Your Health. How do 100% grass-fed
