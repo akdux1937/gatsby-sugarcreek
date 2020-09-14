@@ -16,6 +16,7 @@ always do our best to allocate to new customers when available.
 * [How It Works](/how)
 * [Protocols](/protocol)
 * [Contact to Purchase](/contact)
+* [Learn more about Food Animal Concerns Trust](https://foodanimalconcernstrust.org/)
 
 ### Beginnings
 
