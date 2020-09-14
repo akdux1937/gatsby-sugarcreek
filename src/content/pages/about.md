@@ -29,4 +29,6 @@ In the beginning everything we did was conventional. We fed our herd corn, grain
 
 In 2015, Sugar Creeks Farms enterprise took shape and we have grown the herd to around 50 stock. We are not planning to be a large operation. The Sugar Creek Farms name will not be in any stores. We will not mass-market another farms' beef or sell what we didn't raise. We WILL continue providing high quality products to people we want to do business with. We WILL continue to become better stewards of the land and our cattle. We WILL continue to be transparent about our practice and share everything we learn.
 
-![Herd happily eating in field five](/assets/pasture900img_9602.jpg "Herd happily eating in field five")
+![Food Animal Concerns Trust (Front)](/assets/beef-cattle-sugar-creek-farms-front.jpg "FACT Sugar Creek Farms Brochure (Front)")
+
+![Food Animal Concerns Trust (Back)](/assets/beef-cattle-sugar-creek-farms-back.jpg "FACT Sugar Creek Farms Brochure (Back)")
