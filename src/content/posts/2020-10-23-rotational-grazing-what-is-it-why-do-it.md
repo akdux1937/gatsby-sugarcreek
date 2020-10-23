@@ -4,7 +4,7 @@ title: "Rotational Grazing: What Is It? Why Do It?"
 slug: /rotational-grazing-what-is-it-and-why-do-it
 date: 2020-10-23 06:56
 description: The benefits of rotational grazing for your food and the land.
-featuredImage: /assets/img_20200530_205825.jpg
+featuredImage: /assets/agriculture-animal-black-and-white-cows-325257.jpg
 ---
 ## What is rotational grazing?
 > Rotational grazing is the shifting of livestock to different units of a pasture or range in regular sequence to permit the recovery and growth of the pasture plants after grazing. [1](https://www.merriam-webster.com/dictionary/rotation%20grazing)
