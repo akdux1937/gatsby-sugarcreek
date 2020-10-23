@@ -3,7 +3,7 @@ template: blog-post
 title: "Rotational Grazing: What Is It? Why Do It?"
 slug: /rotational-grazing-what-is-it-and-why-do-it
 date: 2020-10-23 06:56
-description: The benefits of rotational grazing for the animals and the land.
+description: The benefits of rotational grazing for your food and the land.
 featuredImage: /assets/img_20200530_205825.jpg
 ---
 ## What is rotational grazing?
